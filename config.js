@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://vn.images.search.yahoo.com/search/images;_ylt=AwrxgKAbBLlgTAoAWnhrUwx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=hinh+nen+cute&fr2=piv-web&fr=mcafee#id=2&iurl=https%3A%2F%2Fwikicachlam.com%2Fwp-content%2Fuploads%2F2019%2F10%2Fhinh-nen-cute-1.jpg&action=click' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
